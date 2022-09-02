@@ -1,2 +1,2 @@
-# WD101
+# wd101
 for learning web programming
